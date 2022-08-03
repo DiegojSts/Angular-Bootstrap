@@ -1,0 +1,43 @@
+#card {
+    margin-top: 10px;
+}
+
+#card-img {
+    margin: 0 0 0 10px;
+}
+
+@media (min-width: 505px){
+    #card-img {
+        width: 25%;
+        margin: -196px 0 0 370px;
+       
+    }
+    img {
+        width: 130px !important;
+        height: 164px;
+    }
+
+    .card-body{
+      flex-wrap: wrap;
+    }
+}
+
+@media (min-width: 760px){
+    #row {
+        width: 70vw;
+        
+    }
+
+    #card-img {
+        width: 25%;
+        margin: -196px 0 0 500px;
+       
+    }
+}
+
+@media (min-width: 1080px){
+    #card-img {
+        margin: -196px 0 0 65%;
+       
+    }
+}

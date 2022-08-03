@@ -1,0 +1,52 @@
+[
+  {
+    "productId": 1,
+    "productName": "Vassoura",
+    "productCode": "GDN-0011",
+    "releaseDate": "Marco 19, 2021",
+    "description": "Vassoura de madeira de 150cm",
+    "price": 19.95,
+    "starRating": 3.2,
+    "imageUrl": "assets/images/leaf_rake.png"
+  },
+  {
+    "productId": 2,
+    "productName": "Carro de Mão",
+    "productCode": "GDN-0023",
+    "releaseDate": "Marco 18, 2021",
+    "description": "Capacidade de 15 galões",
+    "price": 32.99,
+    "starRating": 4.2,
+    "imageUrl": "assets/images/garden_cart.png"
+  },
+  {
+    "productId": 5,
+    "productName": "Martelo",
+    "productCode": "TBX-0048",
+    "releaseDate": "Maio 21, 2021",
+    "description": "Martelo curvado",
+    "price": 8.9,
+    "starRating": 4.8,
+    "imageUrl": "assets/images/hammer.png"
+  },
+  {
+    "productId": 8,
+    "productName": "Serrote",
+    "productCode": "TBX-0022",
+    "releaseDate": "Maio 15, 2021",
+    "description": "Serrote de 45cm",
+    "price": 11.55,
+    "starRating": 3.7,
+    "imageUrl": "assets/images/saw.png"
+  },
+  {
+    "productId": 10,
+    "productName": "Controle de Videogame",
+    "productCode": "GMG-0042",
+    "releaseDate": "Outubro 15, 2020",
+    "description": "Controle de videogame",
+    "price": 35.95,
+    "starRating": 4.6,
+    "imageUrl": "assets/images/xbox-controller.png"
+  }
+]
